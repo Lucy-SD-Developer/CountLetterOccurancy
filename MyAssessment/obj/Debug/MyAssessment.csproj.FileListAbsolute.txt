@@ -1,0 +1,7 @@
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\bin\Debug\MyAssessment.exe.config
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\bin\Debug\MyAssessment.exe
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\bin\Debug\MyAssessment.pdb
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\obj\Debug\MyAssessment.csprojAssemblyReference.cache
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\obj\Debug\MyAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\obj\Debug\MyAssessment.exe
+C:\Users\Lu Lin\source\repos\MyAssessment\MyAssessment\obj\Debug\MyAssessment.pdb
