@@ -1,1 +1,1 @@
-# CountLetterOccurancy
+# CountLetterOccurrences
